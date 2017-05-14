@@ -1,4 +1,4 @@
-.env
+#.env
 cmd/*/data
 cmd/api/api
 cmd/auth/auth
